@@ -1,17 +1,18 @@
-title: weather-logger
+---
 hero_image: images/banner.png
-description: weather-logger description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "jokes/pranks, space, photography, music/sound, physical computing, games, robots"
-technologies: "electronics, physical computing, html/css, scratch, python"
-site_areas:
+title: Weather Logger
+description: Log data from the sensors and then display it as a line graph.
+original_url: https://codeclubprojects.org/en-GB/sense-hat/weather-logger
+interests: ''
+technologies: sense-hat
+site_areas: codeclub, sense-hat
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: 'Challenge: Simulate different weather conditions'
+- title: 'Challenge: Record humidity or pressure'
+

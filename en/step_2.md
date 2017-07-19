@@ -1,13 +1,10 @@
-## What you will need
+--- challenge ---
+## Challenge: Record humidity or pressure
 
-### Hardware
+ Humidity is high when there is a lot of moisture in the air. High pressure is associated with fine weather while low pressure means cloudy, rainy or snowy weather. 
 
-+ List hardware here, or delete section.
+Duplicate your project and change it so that it records humidity or pressure instead of temperature.
 
-### Software
 
-+ List software here, or delete section.
 
-### Additional Resources
-
-+ List additional resources, or delete section.
+--- /challenge ---
