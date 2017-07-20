@@ -1,17 +1,18 @@
---- challenge ---
-## Challenge: Simulate different weather conditions
+## Introduction: 
 
-Can you collect and display weather for different weather conditions? Try a hot summer's day where the temperature is over 30 degrees C and a cold winter where the temperature drops below freezing. 
+In this project you will collect data from the Sense HAT's sensors and log it to a file. Then you will use the PyGal module to display that data as a line graph. 
 
-Remember that you'll need to swap between including `collect` and `display` in `main.py`. 
+You will be writing code in the Python programming language, which you may have learnt in the [Python module](../../python/).
 
-You can just highlight and delete the data in `weather.txt` to clear the data. Or you could create new files to store different readings. 
+<div class="trinket">
+<iframe src="https://trinket.io/embed/python/5e246d8212?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+</iframe>
+<img src="images/weather-final.png">
+</div>
 
- 
+### Additional information for club leaders
 
---- /challenge ---### Additional information for club leaders
-
-If you need to print this project, please use the [Printer friendly version](./print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/weather-logger/print).
 
 
 --- collapse ---

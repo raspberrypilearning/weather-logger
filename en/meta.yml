@@ -13,6 +13,9 @@ interests: ''
 technologies: sense-hat
 site_areas: codeclub, sense-hat
 steps:
+- title: 'Introduction: '
+- title: Logging the temperature
+- title: Creating a temperature graph
 - title: 'Challenge: Simulate different weather conditions'
 - title: 'Challenge: Record humidity or pressure'
 
