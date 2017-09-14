@@ -9,7 +9,7 @@ curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, commun
 title: Weather Logger
 description: Log data from the sensors and then display it as a line graph.
 original_url: https://codeclubprojects.org/en-GB/sense-hat/weather-logger
-interests: ''
+interests: "nature/outside/weather"
 technologies: sense-hat
 site_areas: codeclub, sense-hat
 steps:
