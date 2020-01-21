@@ -2,8 +2,6 @@
 
 Now you've collected some temperature data let's show it on a line graph. 
 
-
-
 + Click on `main.py`. At the moment it imports the `collect.py` script that you wrote to collect the temperature data. Now change it so that it imports the `display.py` script instead. 
 
     Comment out the `import collect` line by adding a `#` at the beginning and remove the `#` from the beginning of the `import display` line. 
@@ -15,7 +13,6 @@ Now you've collected some temperature data let's show it on a line graph.
 + Click on `display.py` to work on the code for displaying the data. You'll be using the Pygal library which has been included for you. 
 
     ![screenshot](images/weather-display.png)
-
 
 + Add the highlighted code to read the values from the `weather.txt` file into a list called `temp`.  
 

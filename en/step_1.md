@@ -61,15 +61,13 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 + Simulate different weather conditions - use the Sense HAT emulator to simulate different weather conditions. 
 + Record and display humidity or pressure - record data from a different Sense HAT sensor and graph the results. 
 
-
-
 --- /collapse ---
-
 
 --- collapse ---
 ---
 title: Project materials
 ---
+
 ## Project resources
 * [.zip file containing all project resources](resources/weather-logger-project-resources.zip)
 * [Weather Logger starter project](http://jumpto.cc/weather-go)

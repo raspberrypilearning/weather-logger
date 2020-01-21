@@ -2,8 +2,6 @@
 
 First let's log the temperature to a file every 5 seconds. You can use the emulator to change the temperature. 
 
-
-
 + Open the Weather Logger Starter Trinket: <a href="http://jumpto.cc/weather-go" target="_blank">jumpto.cc/weather-go</a>. 
 
     __Some files and code have been added for you.__
@@ -21,7 +19,6 @@ First let's log the temperature to a file every 5 seconds. You can use the emula
 + Click on `weather.txt`. It should be empty. This is where the data will be stored. 
 
     ![screenshot](images/weather-file.png)
-
 
 + Now click Run. Use the temperature slider on the emulator to change the temperature. You should see the temperature reading added to the end of `weather.txt` every five seconds. 
 
