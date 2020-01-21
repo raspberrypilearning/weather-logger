@@ -1,33 +1,33 @@
-## Logging the temperature
+## तापमान लॉग करना
 
-First let's log the temperature to a file every 5 seconds. You can use the emulator to change the temperature.
+आइए पहले हम तापमान को एक फ़ाइल में हर 5 सेकंड में लॉग करें। आप तापमान को बदलने के लिए एमुलेटर का उपयोग कर सकते हैं।
 
-+ Open the Weather Logger Starter Trinket: <a href="http://jumpto.cc/weather-go" target="_blank">jumpto.cc/weather-go</a>.
++ वेदर लॉगर स्टार्टर Trinket को खोलें: <a href="http://jumpto.cc/weather-go" target="_blank">jumpto.cc/weather-go</a>।
     
-    **Some files and code have been added for you.**
+    **आपके लिए कुछ फाइलें और कोड जोड़े गए हैं।**
 
-+ Click on `collect.py`. This is where you'll write the code to collect the temperature data. Let's open the `weather.txt` file and write the temperature to it every five seconds.
++ `collect.py` पर क्लिक करें। यह वह जगह है जहाँ आप तापमान डेटा एकत्र करने के लिए कोड लिखेंगे। आइए हम `weather.txt` फ़ाइल खोलें और उसमें हर पाँच सेकंड में तापमान लिखें।
     
-    Add the highlighted code to `collect.py`:
+    हाइलाइट किए गए कोड को `collect.py` में जोड़ें:
     
-    ![screenshot](images/weather-collect.png)
+    ![स्क्रीनशॉट](images/weather-collect.png)
     
-    Opening the file with `a` means that data will be appended to the end of the file.
+    फ़ाइल को `a` के साथ खोलने का मतलब है कि डेटा फ़ाइल के अंत में संलग्न किया जाएगा।
     
-    Writing a newline character `\n` puts each temperature reading on its own line.
+    नई पंक्ति के लिए अक्षर `\n` लिखने से प्रत्येक तापमान रीडिंग अपनी पंक्ति में ही रहती है।
 
-+ Click on `weather.txt`. It should be empty. This is where the data will be stored.
++ `weather.txt` पर क्लिक करें। यह खाली होना चाहिए। यह वह जगह है जहाँ डेटा संगृहीत किया जाएगा।
     
-    ![screenshot](images/weather-file.png)
+    ![स्क्रीनशॉट](images/weather-file.png)
 
-+ Now click Run. Use the temperature slider on the emulator to change the temperature. You should see the temperature reading added to the end of `weather.txt` every five seconds.
++ अब Run (चलाएँ) पर क्लिक करें। तापमान को बदलने के लिए एमुलेटर पर तापमान स्लाइडर का उपयोग करें। आपको `weather.txt` के अंत में हर पाँच सेकंड में तापमान रीडिंग का जोड़ा जाना दिखाई देना चाहिए।
     
-    Remember that the emulator tries to behave like a real Sense HAT so you won't see exactly the same reading even if you don't change the emulator.
+    याद रखें कि एमुलेटर एक वास्तविक Sense HAT की तरह व्यवहार करने की कोशिश करता है इसलिए चाहे आप एमुलेटर को न बदलें तो भी आपको ठीक वैसी ही रीडिंग दिखाई नहीं देगी।
     
-    ![screenshot](images/weather-temperature.png)
+    ![स्क्रीनशॉट](images/weather-temperature.png)
 
-+ Click the square `Stop` button when you have finished collecting data.
++ जब आप डेटा एकत्र करना समाप्त कर लें तो चौकोर `Stop` (स्टॉप) बटन पर क्लिक करें।
     
-    ![screenshot](images/weather-stop.png)
+    ![स्क्रीनशॉट](images/weather-stop.png)
 
-+ You can highlight the data in `weather.txt` and delete it if you want to start collecting new temperature data. Collect around 10 temperature readings.
++ यदि आप नए तापमान डेटा को एकत्र करना शुरू करना चाहते हैं तो आप `weather.txt` में डेटा को हाइलाइट कर सकते हैं और इसे हटा सकते हैं। लगभग 10 तापमान रीडिंग एकत्र करें।
