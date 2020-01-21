@@ -1,29 +1,29 @@
 ---
 hero_image: images/weather-logger.png
-theme: blue
+theme: नीला
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
-title: Weather Logger
-description: Log data from the sensors and then display it as a line graph.
+title: Weather Logger (मौसम लॉग करना)
+description: सेंसरों से डेटा लॉग करना और फिर इसे लाइन ग्राफ़ के रूप में प्रदर्शित करना।
 original_url: https://codeclubprojects.org/en-GB/sense-hat/weather-logger
-interests: weather
+interests: मौसम
 technologies: sense-hat
-site_areas: projects
+site_areas: प्रोजेक्ट
 hardware: sense-hat
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 'Introduction: '
+    title: 'Introduction'
   - 
-    title: Logging the temperature
+    title: तापमान लॉग करना
   - 
-    title: Creating a temperature graph
+    title: तापमान ग्राफ़ बनाना
   - 
-    title: 'Challenge: Simulate different weather conditions'
+    title: 'चुनौती: मौसम की विभिन्न स्थितियों का अनुकरण करना'
   - 
-    title: 'Challenge: Record humidity or pressure'
+    title: 'चुनौती: आर्द्रता या दबाव रिकॉर्ड करना'
