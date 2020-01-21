@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Simulate different weather conditions
+## चुनौती: मौसम की विभिन्न स्थितियों का अनुकरण करना
 
-Can you collect and display weather for different weather conditions? Try a hot summer's day where the temperature is over 30 degrees C and a cold winter where the temperature drops below freezing.
+क्या आप मौसम की विभिन्न स्थितियों के लिए मौसम को एकत्र करके प्रदर्शित कर सकते हैं? ग्रीष्म के एक गर्म दिन को लें जब तापमान 30 डिग्री सेल्सियस से अधिक होता है और सर्दियों के एक ठंडे दिन को लें जब तापमान हिमांक से कम हो जाता है।
 
-Remember that you'll need to swap between including `collect` and `display` in `main.py`.
+याद रखें कि आपको `main.py` में `collect` और `display` सहित इनके बीच स्वैप करना होगा।
 
-You can just highlight and delete the data in `weather.txt` to clear the data. Or you could create new files to store different readings.
+डेटा साफ़ करने के लिए आप `weather.txt` में डेटा को केवल हाइलाइट करके हटा सकते हैं। या आप अलग-अलग रीडिंग को संगृहीत करने के लिए नई फाइलें बना सकते हैं।
 
 \--- /challenge \---
