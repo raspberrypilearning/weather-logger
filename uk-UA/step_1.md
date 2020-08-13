@@ -1,4 +1,4 @@
-## Вступ:
+## Introduction:
 
 In this project you will collect data from the Sense HAT's sensors and log it to a file. Then you will use the PyGal module to display that data as a line graph.
 
@@ -7,31 +7,31 @@ In this project you will collect data from the Sense HAT's sensors and log it to
 </iframe> <img src="images/weather-final.png" />
 </div>
 
-### Додаткова інформація для керівників гуртка
+### Additional information for club leaders
 
-Якщо вам потрібно роздрукувати цей проект, скористайтеся [ Версія для друку ](https://projects.raspberrypi.org/en/projects/weather-logger/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/weather-logger/print).
 
 ## \--- collapse \---
 
-## title: Нотатки керівника гуртка
+## title: Club leader notes
 
-## Вступ:
+## Introduction:
 
 In this project, children will learn how to save data from the Sense HAT sensors to a file and then display the data on a graph with Pygal.
 
-## Онлайн Ресурси
+## Online Resources
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. Цей проект містить наступні трінкети:
+**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
 * ['Weather Logger' Starter Trinket -- jumpto.cc/weather-go](http://jumpto.cc/weather-go)
 
-Також є трінкет, що містить завершений проект:
+There is also a trinket containing the completed project:
 
 * [‘Weather Logger’ Finished -- trinket.io/python/5e246d8212](https://trinket.io/python/5e246d8212)
 
-## Офлайн Ресурси
+## Offline Resources
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання "Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси проекту", який містить ресурси, необхідні для завершення цього проекту в режимі офлайн. Переконайтеся, що кожна дитина має доступ до копій цих ресурсів. Ця секція містить наступні файли:
+This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * weather/main.py
 * weather/collect.py
@@ -45,44 +45,44 @@ You can also find a completed version of this project in the 'Volunteer Resource
 * weather-finished/display.py
 * weather-finished/weather.txt
 
-(Всі з вищевказаних ресурсів можна завантажувати як проекти і волонтерські файли `.zip`.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Цілі навчання
+## Learning Objectives
 
 * Physical computing - sensors;
 * Data - writing to and reading from files.
 
-Цей проект охоплює елементи з наступних напрямків навчального плану [ Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Для вирішення проблеми об'єднайте конструкції програмування.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Завдання
+## Challenges
 
 * Simulate different weather conditions - use the Sense HAT emulator to simulate different weather conditions. 
 * Record and display humidity or pressure - record data from a different Sense HAT sensor and graph the results. 
 
-\---collapse\---
+\--- /collapse \---
 
-## \---collapse\---
+## \--- collapse \---
 
-## title: Матеріали проекту
+## title: Project materials
 
-## Проектні ресурси
+## Project resources
 
-* [.zip file, що містить всі ресурси проекту](resources/weather-logger-project-resources.zip)
+* [.zip file containing all project resources](resources/weather-logger-project-resources.zip)
 * [Weather Logger starter project](http://jumpto.cc/weather-go)
 * [Offline starter Python file](resources/weather-logger-main.py)
 * [Offline Python file for collecting data](resources/weather-logger-collect.py)
 * [Offline Python file for displaying data](resources/weather-logger-display.py)
 * [Offline weather data file](resources/weather--loggerweather.txt)
 
-## Ресурси лідерів клубу
+## Club leader resources
 
-* [.zip файл, що містить всі проектні ресурси](resources/weather-logger-volunteer-resources.zip)
+* [.zip file containing all completed project resources](resources/weather-logger-volunteer-resources.zip)
 * [Online completed Trinket Tightrope project](https://trinket.io/python/5e246d8212)
 * [Offline starter Python file](resources/weather-logger-finished-main.py)
 * [Offline Python file for collecting data](resources/weather-logger-finished-collect.py)
 * [Offline Python file for displaying data](resources/weather-logger-finished-display.py)
 * [Offline weather data file](resources/weather-logger-finished-weather.txt)
 
-\---collapse\---
+\--- /collapse \---
