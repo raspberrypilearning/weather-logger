@@ -1,9 +1,9 @@
 \--- challange \---
 
-## Challenge: Record humidity or pressure
+## Défi : Enregistre l'humidité ou la pression
 
-Humidity is high when there is a lot of moisture in the air. High pressure is associated with fine weather while low pressure means cloudy, rainy or snowy weather.
+Le taux d'humidité est élevé lorsqu'il y a beaucoup d'humidité dans l'air. La haute pression est associée à un beau temps tandis que la basse pression signifie un temps nuageux, pluvieux ou enneigé.
 
-Duplicate your project and change it so that it records humidity or pressure instead of temperature.
+Duplique ton projet et modifie-le pour qu'il enregistre l'humidité ou la pression au lieu de la température.
 
 \--- /challenge \---
