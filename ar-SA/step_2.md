@@ -1,33 +1,33 @@
-## Logging the temperature
+## تسجيل درجة الحرارة
 
-First let's log the temperature to a file every 5 seconds. You can use the emulator to change the temperature.
+لنقم أولاً بتسجيل درجة الحرارة في ملف كل 5 ثوانٍ. يمكنك استخدام المحاكي لتغيير درجة الحرارة.
 
-+ Open the Weather Logger Starter Trinket: <a href="http://jumpto.cc/weather-go" target="_blank">jumpto.cc/weather-go</a>.
++ افتح سجل درجات الطقس بدايةTrinket: <a href="http://jumpto.cc/weather-go" target="_blank">jumpto.cc/weather-go</a>.
     
-    **Some files and code have been added for you.**
+    **تم إضافة بعض الملفات والتعليمات البرمجية لك.**
 
-+ Click on `collect.py`. This is where you'll write the code to collect the temperature data. Let's open the `weather.txt` file and write the temperature to it every five seconds.
++ انقر فوق ` collect.py `. هذا هو المكان الذي ستكتب فيه التعليمات البرمجية لجمع بيانات درجة الحرارة. لنفتح ملف ` weather.txt ` ملف وكتابة درجة الحرارة إليها كل خمس ثوان.
     
-    Add the highlighted code to `collect.py`:
+    أضف التعليمات البرمجية المميزة إلى ` collect.py `:
     
     ![لقطة الشاشة](images/weather-collect.png)
     
-    Opening the file with `a` means that data will be appended to the end of the file.
+    فتح الملف باستخدام ` أ ` يعني أنه سيتم إلحاق البيانات بنهاية الملف.
     
-    Writing a newline character `\n` puts each temperature reading on its own line.
+    كتابة حرف خط جديد `\n` يضع كل قراءة درجة حرارة على سطرها الخاص.
 
-+ Click on `weather.txt`. It should be empty. This is where the data will be stored.
++ انقر فوق ` weather.txt `. يجب أن تكون فارغة. هذا هو المكان الذي سيتم تخزين البيانات فيه.
     
     ![لقطة الشاشة](images/weather-file.png)
 
-+ Now click Run. Use the temperature slider on the emulator to change the temperature. You should see the temperature reading added to the end of `weather.txt` every five seconds.
++ الآن انقر فوق تشغيل. استخدام شريط تمرير درجة الحرارة على المحاكي لتغيير درجة الحرارة. يجب أن ترى قراءة درجة الحرارة تضاف إلى نهاية `weather.txt` كل خمس ثوان.
     
-    Remember that the emulator tries to behave like a real Sense HAT so you won't see exactly the same reading even if you don't change the emulator.
+    تذكر أن المحاكي يحاول أن يتصرف مثل "Sense HAT حقيقي" لذلك لن ترى نفس القراءة بالضبط حتى لو كنت لا تغير المحاكي.
     
     ![لقطة الشاشة](images/weather-temperature.png)
 
-+ Click the square `Stop` button when you have finished collecting data.
++ انقر فوق زر ` إيقاف ` المربع عند الانتهاء من جمع البيانات.
     
     ![لقطة الشاشة](images/weather-stop.png)
 
-+ You can highlight the data in `weather.txt` and delete it if you want to start collecting new temperature data. Collect around 10 temperature readings.
++ يمكنك تمييز البيانات في ` weather.txt ` وحذفها إذا كنت ترغب في البدء في جمع بيانات درجة الحرارة الجديدة. اجمع حوالي 10 قراءات لدرجة الحرارة.
