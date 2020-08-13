@@ -6,4 +6,4 @@ Humidity is high when there is a lot of moisture in the air. High pressure is as
 
 Duplicate your project and change it so that it records humidity or pressure instead of temperature.
 
-\--- /thử thách \---
+\--- /challenge \---
