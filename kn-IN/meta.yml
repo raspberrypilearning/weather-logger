@@ -1,0 +1,29 @@
+---
+hero_image: images/weather-logger.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+title: ಹವಾಮಾನದ ಲಾಗರ್
+description: ಸಂವೇದಕಗಳಿಂದ ಡೇಟಾವನ್ನು ಲಾಗ್ ಮಾಡಿ ನಂತರ ಅದನ್ನು ಲೈನ್ ಗ್ರಾಫ್ ಆಗಿ ಪ್ರದರ್ಶಿಸಿ.
+original_url: https://codeclubprojects.org/en-GB/sense-hat/weather-logger
+interests: weather
+technologies: sense-hat
+site_areas: projects
+hardware: sense-hat
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: 'ಪರಿಚಯ'
+  - 
+    title: ತಾಪಮಾನವನ್ನು ನಮೂದಿಸುವುದು
+  - 
+    title: ತಾಪಮಾನ ಗ್ರಾಫ್ ರಚಿಸಲಾಗುತ್ತಿದೆ
+  - 
+    title: 'ಸವಾಲು: ವಿಭಿನ್ನ ಹವಾಮಾನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಅನುಕರಿಸಿ'
+  - 
+    title: 'ಸವಾಲು: ಆರ್ದ್ರತೆ ಅಥವಾ ಒತ್ತಡವನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಿ'
