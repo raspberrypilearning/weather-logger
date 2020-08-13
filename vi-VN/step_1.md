@@ -1,4 +1,4 @@
-## Giới thiệu:
+## Introduction:
 
 In this project you will collect data from the Sense HAT's sensors and log it to a file. Then you will use the PyGal module to display that data as a line graph.
 
@@ -7,15 +7,15 @@ In this project you will collect data from the Sense HAT's sensors and log it to
 </iframe> <img src="images/weather-final.png" />
 </div>
 
-### Thông tin bổ sung cho lãnh đạo của các câu lạc bộ
+### Additional information for club leaders
 
-Nếu bạn cần in dự án này, vui lòng sử dụng [Phiên bản thân thiện với máy in](https://projects.raspberrypi.org/en/projects/weather-logger/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/weather-logger/print).
 
-## \--- sụp đổ \---
+## \--- collapse \---
 
-## title: Ghi chú dành cho lãnh đạo câu lạc bộ
+## title: Club leader notes
 
-## Giới thiệu:
+## Introduction:
 
 In this project, children will learn how to save data from the Sense HAT sensors to a file and then display the data on a graph with Pygal.
 
@@ -47,25 +47,25 @@ You can also find a completed version of this project in the 'Volunteer Resource
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Mục tiêu học tập
+## Learning Objectives
 
 * Physical computing - sensors;
 * Data - writing to and reading from files.
 
-Dự án này bao gồm các nội dung sau từ chương trình [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Kết hợp các cấu trúc lập trình để giải quyết vấn đề.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Thử thách
+## Challenges
 
 * Simulate different weather conditions - use the Sense HAT emulator to simulate different weather conditions. 
 * Record and display humidity or pressure - record data from a different Sense HAT sensor and graph the results. 
 
 \--- /collapse \---
 
-## \--- sụp đổ \---
+## \--- collapse \---
 
-## title: Tài liệu và tài nguyên cho dự án
+## title: Project materials
 
 ## Project resources
 
@@ -76,7 +76,7 @@ Dự án này bao gồm các nội dung sau từ chương trình [Raspberry Pi D
 * [Offline Python file for displaying data](resources/weather-logger-display.py)
 * [Offline weather data file](resources/weather--loggerweather.txt)
 
-## Tài liệu và tài nguyên cho lãnh đạo câu lạc bộ
+## Club leader resources
 
 * [.zip file containing all completed project resources](resources/weather-logger-volunteer-resources.zip)
 * [Online completed Trinket Tightrope project](https://trinket.io/python/5e246d8212)
