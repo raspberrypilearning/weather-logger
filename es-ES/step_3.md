@@ -8,11 +8,11 @@ Now you've collected some temperature data let's show it on a line graph.
     
     `main.py` should now look like this:
     
-    ![captura de pantalla](images/weather-main.png)
+    ![screenshot](images/weather-main.png)
 
 + Click on `display.py` to work on the code for displaying the data. You'll be using the Pygal library which has been included for you.
     
-    ![captura de pantalla](images/weather-display.png)
+    ![screenshot](images/weather-display.png)
 
 + Add the highlighted code to read the values from the `weather.txt` file into a list called `temp`.
     
@@ -28,4 +28,4 @@ Now you've collected some temperature data let's show it on a line graph.
     
     Add the highlighted code to add a title and labels:
     
-    ![captura de pantalla](images/weather-labels.png)
+    ![screenshot](images/weather-labels.png)
