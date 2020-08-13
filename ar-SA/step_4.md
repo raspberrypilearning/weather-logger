@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Simulate different weather conditions
+## التحدي: محاكاة الظروف الجوية المختلفة
 
-Can you collect and display weather for different weather conditions? Try a hot summer's day where the temperature is over 30 degrees C and a cold winter where the temperature drops below freezing.
+هل يمكنك جمع وعرض الطقس لظروف الطقس المختلفة؟ جرب يوم صيف حار حيث تكون درجة الحرارة أعلى من 30 درجة مئوية وشتاء بارد حيث تنخفض درجة الحرارة إلى أقل من درجة التجمد.
 
-Remember that you'll need to swap between including `collect` and `display` in `main.py`.
+تذكر أنك ستحتاج إلى التبديل بين `جمع` و`عرض` في ` main.py `.
 
-You can just highlight and delete the data in `weather.txt` to clear the data. Or you could create new files to store different readings.
+يمكنك فقط تمييز البيانات وحذفها في ` weather.txt ` لمسح البيانات. أو يمكنك إنشاء ملفات جديدة لتخزين قراءات مختلفة.
 
 \--- challenge/ \---
