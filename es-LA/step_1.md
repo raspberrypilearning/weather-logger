@@ -1,4 +1,4 @@
-## Introducción:
+## Introducción
 
 En este proyecto recolectarás datos de los sensores de Sense HAT y lo registrarás en un archivo. Luego usarás el módulo PyGal para mostrar esos datos como un gráfico de línea.
 
