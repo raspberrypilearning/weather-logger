@@ -8,4 +8,4 @@ Remember that you'll need to swap between including `collect` and `display` in `
 
 You can just highlight and delete the data in `weather.txt` to clear the data. Or you could create new files to store different readings.
 
-\--- / πρόκληση \---
+\--- /challenge \---
