@@ -1,4 +1,4 @@
-## 介紹:
+## Introduction:
 
 In this project you will collect data from the Sense HAT's sensors and log it to a file. Then you will use the PyGal module to display that data as a line graph.
 
@@ -7,15 +7,15 @@ In this project you will collect data from the Sense HAT's sensors and log it to
 </iframe> <img src="images/weather-final.png" />
 </div>
 
-### Code Club 工作人員延伸閱讀
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/weather-logger/print).
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Club leader notes
 
-## 介紹:
+## Introduction:
 
 In this project, children will learn how to save data from the Sense HAT sensors to a file and then display the data on a graph with Pygal.
 
@@ -54,7 +54,7 @@ You can also find a completed version of this project in the 'Volunteer Resource
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [結合程式設計結構來解決問題。](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## Challenges
 
@@ -63,7 +63,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 \--- /collapse \---
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
 ## title: Project materials
 
@@ -85,4 +85,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Offline Python file for displaying data](resources/weather-logger-finished-display.py)
 * [Offline weather data file](resources/weather-logger-finished-weather.txt)
 
-- - 自動隱藏選單 - -
+\--- /collapse \---
