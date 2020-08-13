@@ -1,4 +1,4 @@
-## Introdução:
+## Introduction:
 
 In this project you will collect data from the Sense HAT's sensors and log it to a file. Then you will use the PyGal module to display that data as a line graph.
 
@@ -7,78 +7,78 @@ In this project you will collect data from the Sense HAT's sensors and log it to
 </iframe> <img src="images/weather-final.png" />
 </div>
 
-### Informação adicional para líderes de clubes
+### Additional information for club leaders
 
-Se você precisar imprimir este projeto, use a [Versão para Impressão](https://projects.raspberrypi.org/en/projects/weather-logger/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/weather-logger/print).
 
 ## \--- collapse \---
 
-## title: Notas do líder do clube
+## title: Club leader notes
 
-## Introdução:
+## Introduction:
 
 In this project, children will learn how to save data from the Sense HAT sensors to a file and then display the data on a graph with Pygal.
 
-## Recursos Online
+## Online Resources
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. Este projeto contém os seguintes Trinkets:
+**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. This project contains the following Trinkets:
 
 * ['Weather Logger' Starter Trinket -- jumpto.cc/weather-go](http://jumpto.cc/weather-go)
 
-Há também uma trinket contendo o projeto concluído:
+There is also a trinket containing the completed project:
 
 * [‘Weather Logger’ Finished -- trinket.io/python/5e246d8212](https://trinket.io/python/5e246d8212)
 
-## Recursos Offline
+## Offline Resources
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. Você pode acessar os recursos do projeto clicando no link 'Materiais do Projeto' para este projeto. Este link contém uma seção 'Recursos do Projeto', que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * weather/main.py
 * weather/collect.py
 * weather/display.py
 * weather/weather.txt
 
-Você também pode encontrar uma versão completa deste projeto na seção 'Recursos para Voluntários', que contém:
+You can also find a completed version of this project in the 'Volunteer Resources' section, which contains:
 
 * weather-finished/main.py
 * weather-finished/collect.py
 * weather-finished/display.py
 * weather-finished/weather.txt
 
-(Todos os recursos acima também podem ser baixados como arquivos `.zip` do projeto e dos voluntários.)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Objetivos de aprendizado
+## Learning Objectives
 
 * Physical computing - sensors;
 * Data - writing to and reading from files.
 
-Este projeto abrange elementos das seguintes vertentes do [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine construções de programação para resolver um problema.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Desafios
+## Challenges
 
 * Simulate different weather conditions - use the Sense HAT emulator to simulate different weather conditions. 
 * Record and display humidity or pressure - record data from a different Sense HAT sensor and graph the results. 
 
 \--- /collapse \---
 
-## \--- colapso \---
+## \--- collapse \---
 
-## Título: Materiais do projeto
+## title: Project materials
 
-## Recursos do projeto
+## Project resources
 
-* [arquivo.zip contendo todos os recursos do projeto](resources/weather-logger-project-resources.zip)
+* [.zip file containing all project resources](resources/weather-logger-project-resources.zip)
 * [Weather Logger starter project](http://jumpto.cc/weather-go)
 * [Offline starter Python file](resources/weather-logger-main.py)
 * [Offline Python file for collecting data](resources/weather-logger-collect.py)
 * [Offline Python file for displaying data](resources/weather-logger-display.py)
 * [Offline weather data file](resources/weather--loggerweather.txt)
 
-## Recursos do líder do clube
+## Club leader resources
 
-* [arquivo .zip contém todos os recursos do projeto](resources/weather-logger-volunteer-resources.zip)
+* [.zip file containing all completed project resources](resources/weather-logger-volunteer-resources.zip)
 * [Online completed Trinket Tightrope project](https://trinket.io/python/5e246d8212)
 * [Offline starter Python file](resources/weather-logger-finished-main.py)
 * [Offline Python file for collecting data](resources/weather-logger-finished-collect.py)
