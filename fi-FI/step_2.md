@@ -10,7 +10,7 @@ First let's log the temperature to a file every 5 seconds. You can use the emula
     
     Add the highlighted code to `collect.py`:
     
-    ![ruutukaappaus](images/weather-collect.png)
+    ![screenshot](images/weather-collect.png)
     
     Opening the file with `a` means that data will be appended to the end of the file.
     
@@ -18,16 +18,16 @@ First let's log the temperature to a file every 5 seconds. You can use the emula
 
 + Click on `weather.txt`. It should be empty. This is where the data will be stored.
     
-    ![ruutukaappaus](images/weather-file.png)
+    ![screenshot](images/weather-file.png)
 
 + Now click Run. Use the temperature slider on the emulator to change the temperature. You should see the temperature reading added to the end of `weather.txt` every five seconds.
     
     Remember that the emulator tries to behave like a real Sense HAT so you won't see exactly the same reading even if you don't change the emulator.
     
-    ![ruutukaappaus](images/weather-temperature.png)
+    ![screenshot](images/weather-temperature.png)
 
 + Click the square `Stop` button when you have finished collecting data.
     
-    ![ruutukaappaus](images/weather-stop.png)
+    ![screenshot](images/weather-stop.png)
 
 + You can highlight the data in `weather.txt` and delete it if you want to start collecting new temperature data. Collect around 10 temperature readings.
