@@ -1,15 +1,15 @@
 ---
-hero_image: images / weather-logger.png
-theme: mavi
+hero_image: images/weather-logger.png
+theme: blue
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 2, tasarım-0, programlama-2, phys-comp-0, üretim-0, topluluk-0
-title: Hava Durumu Kaydedici
-description: Sensörlerdeki verileri günlüğe kaydedin ve sonra çizgi grafik olarak görüntüleyin.
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+title: Weather Logger
+description: Log data from the sensors and then display it as a line graph.
 original_url: https://codeclubprojects.org/en-GB/sense-hat/weather-logger
-interests: hava Durumu
+interests: weather
 technologies: sense-hat
 site_areas: projects
 hardware: sense-hat
@@ -20,10 +20,10 @@ steps:
   - 
     title: 'Introduction'
   - 
-    title: Sıcaklığın kaydedilmesi
+    title: Logging the temperature
   - 
-    title: Sıcaklık grafiği oluşturma
+    title: Creating a temperature graph
   - 
-    title: 'Mücadele: Farklı hava koşullarını simüle edin'
+    title: 'Challenge: Simulate different weather conditions'
   - 
-    title: 'Mücadele: Nemi veya basıncı kaydedin'
+    title: 'Challenge: Record humidity or pressure'
