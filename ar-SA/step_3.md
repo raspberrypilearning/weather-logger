@@ -1,31 +1,31 @@
-## Creating a temperature graph
+## إنشاء رسم بياني لدرجة الحرارة
 
-Now you've collected some temperature data let's show it on a line graph.
+الآن لقد جمعت بعض بيانات درجة الحرارة ، فلنظهرها على الرسم البياني الخطي.
 
-+ Click on `main.py`. At the moment it imports the `collect.py` script that you wrote to collect the temperature data. Now change it so that it imports the `display.py` script instead.
++ انقر فوق ` main.py `. في الوقت الحالي تستورد النسخة البرمجية `collect.py` التي كتبتها لجمع بيانات درجة الحرارة. الآن قم بتغييره بحيث يستورد النسخة البرمجية `display.py` بدلاً من ذلك.
     
-    Comment out the `import collect` line by adding a `#` at the beginning and remove the `#` from the beginning of the `import display` line.
+    التعليق خارج خط ` جمع الاستيراد ` بإضافة ` # ` في البداية وإزالة ` # ` من بداية خط` عرض الاستيراد`.
     
-    `main.py` should now look like this:
+    الآن يجب أن يبدو الملف الخاص بك مثل هذا:`main.py`:
     
     ![لقطة الشاشة](images/weather-main.png)
 
-+ Click on `display.py` to work on the code for displaying the data. You'll be using the Pygal library which has been included for you.
++ انقر فوق ` display.py ` للعمل على الكود لعرض البيانات. ستستخدم مكتبة Pygal التي تم تضمينها لك.
     
     ![لقطة الشاشة](images/weather-display.png)
 
-+ Add the highlighted code to read the values from the `weather.txt` file into a list called `temp`.
++ أضف التعليمات البرمجية المميزة لقراءة القيم من ` weather.txt ` ملف في قائمة تسمى ` درجة الحرارة `.
     
     ![لقطة الشاشة](images/weather-read.png)
 
-+ Run the code to see the values printed out. You can remove the `print` line when you have tested your code.
++ قم بتشغيل التعليمة البرمجية لرؤية القيم المطبعة. يمكنك إزالة سطر `طباعة` عندما تكون قد اختبرت التعليمات البرمجية الخاص بك.
 
-+ Now let's add the code to create a line graph from the data using Pygal.
++ الآن دعونا نضيف التعليمات البرمجية لإنشاء رسم بياني خطي من البيانات باستخدام Pygal.
     
     ![لقطة الشاشة](images/weather-graph.png)
 
-+ Pygal automatically creates labels for the y axis from the data. Let's add a title and labels for the x axis. We can number the readings starting from 1. We need to add one to the length of the temperature list so that range will return a list of numbers that goes from 1 up to the length of the list.
++ يقوم Pygal تلقائيًا بإنشاء تسميات للمحور y من البيانات. دعنا نضيف عنوانًا وتسميات لمحور x. يمكننا ترقيم القراءات بدءًا من 1. نحن بحاجة إلى إضافة واحدة إلى طول قائمة درجات الحرارة حتى يعيد ذلك النطاق قائمة بالأرقام التي تنتقل من 1 إلى طول القائمة.
     
-    Add the highlighted code to add a title and labels:
+    أضف التعلميات البرمجية المميزة لإضافة عنوان وتسميات:
     
     ![لقطة الشاشة](images/weather-labels.png)
