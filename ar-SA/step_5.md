@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Record humidity or pressure
+## التحدي: تسجيل درجات الرطوبة أو الضغط
 
-Humidity is high when there is a lot of moisture in the air. High pressure is associated with fine weather while low pressure means cloudy, rainy or snowy weather.
+الرطوبة عالية عندما يكون هناك الكثير من الرطوبة في الهواء. يرتبط الضغط العالي بالطقس الجيد بينما الضغط المنخفض يعني الطقس الغائم أو الممطر أو الثلجي.
 
-Duplicate your project and change it so that it records humidity or pressure instead of temperature.
+قم بتكرار مشروعك وتغييره بحيث يسجل الرطوبة أو الضغط بدلاً من درجة الحرارة.
 
 \--- /challenge \---
