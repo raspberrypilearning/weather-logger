@@ -1,11 +1,11 @@
-\--- challange \---
+\--- challenge \---
 
-## Challenge: Simulate different weather conditions
+## Défi : Simuler différentes conditions météo
 
-Can you collect and display weather for different weather conditions? Try a hot summer's day where the temperature is over 30 degrees C and a cold winter where the temperature drops below freezing.
+Peux-tu collecter et afficher la météo pour différentes conditions météorologiques? Essaye une chaude journée d'été où la température est supérieure à 30 degrés Celsius et un jour d'hiver froid où la température descend en dessous de zéro.
 
-Remember that you'll need to swap between including `collect` and `display` in `main.py`.
+N'oublie pas que tu devras permuter entre inclure ` collecter ` et ` affichage ` dans ` main.py ` .
 
-You can just highlight and delete the data in `weather.txt` to clear the data. Or you could create new files to store different readings.
+Tu peux juste mettre en surbrillance les données et les supprimer dans `weather.txt` pour effacer les données. Ou tu peux créer de nouveaux fichiers pour stocker différentes lectures.
 
 \--- /challenge \---
