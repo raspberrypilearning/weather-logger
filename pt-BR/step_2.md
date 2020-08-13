@@ -18,7 +18,7 @@ First let's log the temperature to a file every 5 seconds. You can use the emula
 
 + Click on `weather.txt`. It should be empty. This is where the data will be stored.
     
-    ![captura de tela](images/weather-file.png)
+    ![screenshot](images/weather-file.png)
 
 + Now click Run. Use the temperature slider on the emulator to change the temperature. You should see the temperature reading added to the end of `weather.txt` every five seconds.
     
@@ -28,6 +28,6 @@ First let's log the temperature to a file every 5 seconds. You can use the emula
 
 + Click the square `Stop` button when you have finished collecting data.
     
-    ![captura](images/weather-stop.png)
+    ![screenshot](images/weather-stop.png)
 
 + You can highlight the data in `weather.txt` and delete it if you want to start collecting new temperature data. Collect around 10 temperature readings.
