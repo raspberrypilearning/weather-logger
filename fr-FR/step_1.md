@@ -1,6 +1,6 @@
 ## Introduction :
 
-In this project you will collect data from the Sense HAT's sensors and log it to a file. Then you will use the PyGal module to display that data as a line graph.
+Dans ce projet, tu vas collecter des données à partir des capteurs du Sense HAT et les enregistrer dans un fichier. Ensuite, tu utiliseras le module PyGal pour afficher ces données sous forme de graphique linéaire.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/python/5e246d8212?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
@@ -9,7 +9,7 @@ In this project you will collect data from the Sense HAT's sensors and log it to
 
 ### Informations complémentaires pour les responsables de club
 
-Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/weather-logger/print).
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](https://projects.raspberrypi.org/en/projects/weather-logger/print).
 
 ## \--- collapse \---
 
@@ -17,28 +17,28 @@ Si tu as besoin d'imprimer ce projet, merci d'utiliser la [Version imprimable](h
 
 ## Introduction :
 
-In this project, children will learn how to save data from the Sense HAT sensors to a file and then display the data on a graph with Pygal.
+Dans ce projet, les enfants apprendront comment enregistrer les données des capteurs du « Sense HAT » dans un fichier, puis afficher les données sur un graphique avec Pygal.
 
-## Ressources en-ligne
+## Ressources en ligne
 
-**This project uses Python 3.** We recommend using [Trinket](https://trinket.io/) to write Python online. Ce projet contient les Trinkets suivants :
+**Ce projet utilise Python 3.** Nous vous recommandons d'utiliser [Trinket](https://trinket.io/) pour écrire du code Python en ligne. Ce projet contient les Trinkets suivants :
 
-* ['Weather Logger' Starter Trinket -- jumpto.cc/weather-go](http://jumpto.cc/weather-go)
+* [« Enregistreur météo » Démarrage Trinket -- jumpto.cc/weather-go](http://jumpto.cc/weather-go)
 
-Il existe aussi ce trinket qui contient le projet completé:
+Il existe aussi ce trinket qui contient le projet terminé :
 
-* [‘Weather Logger’ Finished -- trinket.io/python/5e246d8212](https://trinket.io/python/5e246d8212)
+* [« Enregistreur météo » terminé - trinket.io/python/5e246d8212](https://trinket.io/python/5e246d8212)
 
-## Ressources hors-ligne
+## Ressources hors ligne
 
-This project can also be [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) on a Raspberry Pi computer with a Sense HAT. Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériaux du projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
+Ce projet peut également être [terminé hors ligne](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) sur un ordinateur Raspberry Pi avec un « Sense HAT ». Vous pouvez accéder aux ressources du projet en cliquant sur le lien "Matériel pour le projet". Ce lien contient une section "Ressources du projet" qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 * weather/main.py
 * weather/collect.py
 * weather/display.py
 * weather/weather.txt
 
-Vous pouvez aussi trouver une version complétée du projet dans la section "Ressources du bénévole" qui contient :
+Vous pouvez aussi trouver une version terminée du projet dans la section « Ressources du bénévole » qui contient :
 
 * weather-finished/main.py
 * weather-finished/collect.py
@@ -49,8 +49,8 @@ Vous pouvez aussi trouver une version complétée du projet dans la section "Res
 
 ## Objectifs d'apprentissage
 
-* Physical computing - sensors;
-* Data - writing to and reading from files.
+* Informatique physique - capteurs ;
+* Données - écriture et lecture à partir de fichiers.
 
 Ce projet couvre les élements suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum):
 
@@ -58,31 +58,31 @@ Ce projet couvre les élements suivants du [Programme Raspberry Pi de Créativit
 
 ## Défis
 
-* Simulate different weather conditions - use the Sense HAT emulator to simulate different weather conditions. 
-* Record and display humidity or pressure - record data from a different Sense HAT sensor and graph the results. 
+* Simule différentes conditions météorologiques - utilise l'émulateur Sense HAT pour simuler différentes conditions météorologiques. 
+* Enregistre et affiche l'humidité ou la pression - enregistre les données d'un autre capteur Sense HAT et représente graphiquement les résultats. 
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Matériel pour projet
+## title: Matériel pour le projet
 
 ## Ressources du projet
 
 * [Fichier .zip contenant toutes les ressources du projet](resources/weather-logger-project-resources.zip)
-* [Weather Logger starter project](http://jumpto.cc/weather-go)
-* [Offline starter Python file](resources/weather-logger-main.py)
-* [Offline Python file for collecting data](resources/weather-logger-collect.py)
-* [Offline Python file for displaying data](resources/weather-logger-display.py)
-* [Offline weather data file](resources/weather--loggerweather.txt)
+* [Démarrage du projet « Enregistreur météo »](http://jumpto.cc/weather-go)
+* [Fichier Python de démarrage hors ligne](resources/weather-logger-main.py)
+* [Fichier Python hors ligne pour la collecte des données](resources/weather-logger-collect.py)
+* [Fichier Python hors ligne pour l'affichage des données](resources/weather-logger-display.py)
+* [Fichier de données météo hors ligne](resources/weather--loggerweather.txt)
 
 ## Ressources pour le responsable de club
 
 * [Fichier .zip contenant toutes les ressources du projet](resources/weather-logger-volunteer-resources.zip)
-* [Online completed Trinket Tightrope project](https://trinket.io/python/5e246d8212)
-* [Offline starter Python file](resources/weather-logger-finished-main.py)
-* [Offline Python file for collecting data](resources/weather-logger-finished-collect.py)
-* [Offline Python file for displaying data](resources/weather-logger-finished-display.py)
-* [Offline weather data file](resources/weather-logger-finished-weather.txt)
+* [Projet Trinket Tightrope en ligne terminé](https://trinket.io/python/5e246d8212)
+* [Fichier Python de démarrage hors ligne](resources/weather-logger-finished-main.py)
+* [Fichier Python hors ligne pour la collecte des données](resources/weather-logger-finished-collect.py)
+* [Fichier Python hors ligne pour l'affichage des données](resources/weather-logger-finished-display.py)
+* [Fichier de données météo hors ligne](resources/weather-logger-finished-weather.txt)
 
 \--- /collapse \---
