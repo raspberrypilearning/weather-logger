@@ -2,12 +2,12 @@ import pygal
 
 temp = []
 
-file = open ('weather.txt', 'r')
+archivo = open ('weather.txt', 'r')
 
-for line in file.read().splitlines():
-  if line:
-    temp.append( float(line) )
-file.close()
+for linea in archivo.read().splitlines():
+  if linea:
+    temp.append( float(linea) )
+archivo.close()
 
 weatherchart = pygal.Line ()
 weatherchart.title = 'Temperatura'
