@@ -1,31 +1,31 @@
-## Creating a temperature graph
+## Création d'un graphique de température
 
-Now you've collected some temperature data let's show it on a line graph.
+Maintenant que tu as collecté des données de température, montrons-les sur un graphique linéaire.
 
-+ Click on `main.py`. At the moment it imports the `collect.py` script that you wrote to collect the temperature data. Now change it so that it imports the `display.py` script instead.
++ Clique sur `main.py`. A ce moment, il importe le script `collect.py` que tu as écrit pour collecter les données de température. Maintenant, modifie-le pour importer le script `display.py` à la place.
     
-    Comment out the `import collect` line by adding a `#` at the beginning and remove the `#` from the beginning of the `import display` line.
+    Commente la ligne `import collect` en ajoutant un `#` au début et en retirant le `#` au début de la ligne `import display`.
     
-    `main.py` should now look like this:
+    `main.py` devrait maintenant ressembler à ceci :
     
     ![capture d'écran](images/weather-main.png)
 
-+ Click on `display.py` to work on the code for displaying the data. You'll be using the Pygal library which has been included for you.
++ Clique sur `display.py` pour travailler sur le code pour afficher les données. Tu utiliseras la bibliothèque Pygal qui a été incluse pour toi.
     
-    ![screenshot](images/weather-display.png)
+    ![capture d'écran](images/weather-display.png)
 
-+ Add the highlighted code to read the values from the `weather.txt` file into a list called `temp`.
++ Ajoute le code surligné pour lire les valeurs du fichier `weather.txt` dans une liste appelée `temp`.
     
     ![capture d'écran](images/weather-read.png)
 
-+ Run the code to see the values printed out. You can remove the `print` line when you have tested your code.
++ Exécute le code pour voir les valeurs affichées. Tu peux supprimer la ligne `print` lorsque tu as testé ton code.
 
-+ Now let's add the code to create a line graph from the data using Pygal.
++ Maintenant, ajoutons le code pour créer un graphique linéaire à partir des données en utilisant Pygal.
     
-    ![screenshot](images/weather-graph.png)
+    ![capture d'écran](images/weather-graph.png)
 
-+ Pygal automatically creates labels for the y axis from the data. Let's add a title and labels for the x axis. We can number the readings starting from 1. We need to add one to the length of the temperature list so that range will return a list of numbers that goes from 1 up to the length of the list.
++ Pygal crée automatiquement des étiquettes pour l'axe y à partir des données. Ajoutons un titre et des étiquettes pour l'axe des x. Nous pouvons numéroter les lectures à partir de 1. Nous devons en ajouter un à la longueur de la liste des températures afin que cette plage renvoie une liste de nombres allant de 1 à la longueur de la liste.
     
-    Add the highlighted code to add a title and labels:
+    Ajoute le code en surbrillance pour ajouter un titre et des étiquettes:
     
     ![capture d'écran](images/weather-labels.png)
