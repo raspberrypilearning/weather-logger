@@ -1,4 +1,4 @@
-\--- 도전 \---
+\--- challenge \---
 
 ## Challenge: Simulate different weather conditions
 
@@ -8,4 +8,4 @@ Remember that you'll need to swap between including `collect` and `display` in `
 
 You can just highlight and delete the data in `weather.txt` to clear the data. Or you could create new files to store different readings.
 
-<0>for</0>, <0>forward()</0>, <0>penup()</0> and <0>pendown()</0>를 사용해 보세요.
+\--- /challenge \---
