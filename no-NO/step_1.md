@@ -1,4 +1,4 @@
-## Introduksjon:
+## Introduction:
 
 In this project you will collect data from the Sense HAT's sensors and log it to a file. Then you will use the PyGal module to display that data as a line graph.
 
@@ -7,15 +7,15 @@ In this project you will collect data from the Sense HAT's sensors and log it to
 </iframe> <img src="images/weather-final.png" />
 </div>
 
-### Tilleggsinformasjon for klubbledere
+### Additional information for club leaders
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/weather-logger/print).
 
-## \--- kollaps \---
+## \--- collapse \---
 
 ## title: Club leader notes
 
-## Introduksjon:
+## Introduction:
 
 In this project, children will learn how to save data from the Sense HAT sensors to a file and then display the data on a graph with Pygal.
 
@@ -61,9 +61,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * Simulate different weather conditions - use the Sense HAT emulator to simulate different weather conditions. 
 * Record and display humidity or pressure - record data from a different Sense HAT sensor and graph the results. 
 
-\--- / kollaps \---
+\--- /collapse \---
 
-## \--- kollaps \---
+## \--- collapse \---
 
 ## title: Project materials
 
@@ -85,4 +85,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Offline Python file for displaying data](resources/weather-logger-finished-display.py)
 * [Offline weather data file](resources/weather-logger-finished-weather.txt)
 
-\--- / kollaps \---
+\--- /collapse \---
