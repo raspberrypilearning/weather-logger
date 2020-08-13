@@ -10,7 +10,7 @@ First let's log the temperature to a file every 5 seconds. You can use the emula
     
     Add the highlighted code to `collect.py`:
     
-    ![schermata](images/weather-collect.png)
+    ![screenshot](images/weather-collect.png)
     
     Opening the file with `a` means that data will be appended to the end of the file.
     
@@ -24,7 +24,7 @@ First let's log the temperature to a file every 5 seconds. You can use the emula
     
     Remember that the emulator tries to behave like a real Sense HAT so you won't see exactly the same reading even if you don't change the emulator.
     
-    ![schermata](images/weather-temperature.png)
+    ![screenshot](images/weather-temperature.png)
 
 + Click the square `Stop` button when you have finished collecting data.
     
