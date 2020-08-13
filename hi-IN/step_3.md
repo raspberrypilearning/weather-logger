@@ -1,31 +1,31 @@
-## तापमान ग्राफ़ बनाना
+## Creating a temperature graph
 
-अब आपने कुछ तापमान डेटा एकत्र किया है, आइए इसे लाइन ग्राफ़ पर प्रदर्शित करें।
+Now you've collected some temperature data let's show it on a line graph.
 
-+ `main.py` पर क्लिक करें। इस समय यह उस `collect.py` स्क्रिप्ट को आयात करता है जो आपने तापमान डेटा एकत्र करने के लिए लिखी थी। अब इसे बदल दें ताकि यह इसके बजाय `display.py` स्क्रिप्ट कोआयात करे।
++ Click on `main.py`. At the moment it imports the `collect.py` script that you wrote to collect the temperature data. Now change it so that it imports the `display.py` script instead.
     
-    `import collect` लाइन के आरंभ में `#` जोड़कर और `import display` लाइन के आरंभ से `#` को निकाल कर कमेंट हटा दें।
+    Comment out the `import collect` line by adding a `#` at the beginning and remove the `#` from the beginning of the `import display` line.
     
-    `main.py`अब इस तरह दिखना चाहिए:
+    `main.py` should now look like this:
     
-    ![स्क्रीनशॉट](images/weather-main.png)
+    ![screenshot](images/weather-main.png)
 
-+ डेटा प्रदर्शित करने के लिए कोड पर काम करने के लिए `display.py` पर क्लिक करें। आप Pygal लाइब्रेरी का उपयोग करेंगे जिसे आपके लिए शामिल किया गया है।
++ Click on `display.py` to work on the code for displaying the data. You'll be using the Pygal library which has been included for you.
     
-    ![स्क्रीनशॉट](images/weather-display.png)
+    ![screenshot](images/weather-display.png)
 
-+ `weather.txt`फ़ाइल में से मान पढ़ने के लिए `temp` नामक सूची में हाइलाइट किया गया कोड जोड़ें।
++ Add the highlighted code to read the values from the `weather.txt` file into a list called `temp`.
     
-    ![स्क्रीनशॉट](images/weather-read.png)
+    ![screenshot](images/weather-read.png)
 
-+ प्रिंट किए गए मानों को देखने के लिए कोड चलाएँ। अपने कोड का परीक्षण कर लेने के बाद आप `print` लाइन को निकाल सकते हैं।
++ Run the code to see the values printed out. You can remove the `print` line when you have tested your code.
 
-+ आइए अब हम Pygal का उपयोग करते हुए डेटा से एक लाइन ग्राफ़ बनाने के लिए कोड जोड़ें।
++ Now let's add the code to create a line graph from the data using Pygal.
     
-    ![स्क्रीनशॉट](images/weather-graph.png)
+    ![screenshot](images/weather-graph.png)
 
-+ Pygal डेटा से y अक्ष के लिए स्वचालित रूप से लेबल बनाता है। आइए हम x अक्ष के लिए एक शीर्षक और लेबल जोड़ें। हम रीडिंग को 1 से शुरू करते हुए नंबर दे सकते हैं। हमें तापमान सूची की लंबाई में एक जोड़ना होगा ताकि रेंज से संख्याओं की एक ऐसी सूची तैयार होगी जो 1 से आरंभ होकर सूची की लंबाई तक जाएगी।
++ Pygal automatically creates labels for the y axis from the data. Let's add a title and labels for the x axis. We can number the readings starting from 1. We need to add one to the length of the temperature list so that range will return a list of numbers that goes from 1 up to the length of the list.
     
-    शीर्षक और लेबल जोड़ने के लिए हाइलाइट किया गया कोड जोड़ें:
+    Add the highlighted code to add a title and labels:
     
-    ![स्क्रीनशॉट](images/weather-labels.png)
+    ![screenshot](images/weather-labels.png)
