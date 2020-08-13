@@ -8,7 +8,7 @@ Now you've collected some temperature data let's show it on a line graph.
     
     `main.py` should now look like this:
     
-    ![schermata](images/weather-main.png)
+    ![screenshot](images/weather-main.png)
 
 + Click on `display.py` to work on the code for displaying the data. You'll be using the Pygal library which has been included for you.
     
@@ -28,4 +28,4 @@ Now you've collected some temperature data let's show it on a line graph.
     
     Add the highlighted code to add a title and labels:
     
-    ![schermata](images/weather-labels.png)
+    ![screenshot](images/weather-labels.png)
