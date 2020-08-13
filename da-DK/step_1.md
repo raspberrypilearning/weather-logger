@@ -1,4 +1,4 @@
-## Tillykke Med Fødselsdagen:
+## Introduction:
 
 In this project you will collect data from the Sense HAT's sensors and log it to a file. Then you will use the PyGal module to display that data as a line graph.
 
@@ -7,15 +7,15 @@ In this project you will collect data from the Sense HAT's sensors and log it to
 </iframe> <img src="images/weather-final.png" />
 </div>
 
-### Yderligere oplysninger for klubledere
+### Additional information for club leaders
 
-Hvis du har brug for at udskrive dette projekt skal du bruge den [Printventlige version](https://projects.raspberrypi.org/en/projects/weather-logger/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/weather-logger/print).
 
 ## \--- collapse \---
 
-## title: Klubledernotater
+## title: Club leader notes
 
-## Tillykke Med Fødselsdagen:
+## Introduction:
 
 In this project, children will learn how to save data from the Sense HAT sensors to a file and then display the data on a graph with Pygal.
 
@@ -47,16 +47,16 @@ You can also find a completed version of this project in the 'Volunteer Resource
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Læringsmål
+## Learning Objectives
 
 * Physical computing - sensors;
 * Data - writing to and reading from files.
 
-Dette projekt dækker elementer fra følgende områder i [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Kombiner programmeringskonstruktioner for at løse et problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Udfordringer
+## Challenges
 
 * Simulate different weather conditions - use the Sense HAT emulator to simulate different weather conditions. 
 * Record and display humidity or pressure - record data from a different Sense HAT sensor and graph the results. 
@@ -65,7 +65,7 @@ Dette projekt dækker elementer fra følgende områder i [Raspberry Pi Digital M
 
 ## \--- collapse \---
 
-## title: Projektmaterialer
+## title: Project materials
 
 ## Project resources
 
@@ -76,7 +76,7 @@ Dette projekt dækker elementer fra følgende områder i [Raspberry Pi Digital M
 * [Offline Python file for displaying data](resources/weather-logger-display.py)
 * [Offline weather data file](resources/weather--loggerweather.txt)
 
-## Klubleder resurser
+## Club leader resources
 
 * [.zip file containing all completed project resources](resources/weather-logger-volunteer-resources.zip)
 * [Online completed Trinket Tightrope project](https://trinket.io/python/5e246d8212)
