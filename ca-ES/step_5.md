@@ -1,4 +1,4 @@
-\--- repte \---
+\--- challenge \---
 
 ## Challenge: Record humidity or pressure
 
