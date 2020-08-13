@@ -1,4 +1,4 @@
-скриншот
+\--- challenge \---
 
 ## Challenge: Record humidity or pressure
 
