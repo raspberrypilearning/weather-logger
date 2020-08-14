@@ -1,4 +1,4 @@
---- challange ---
+--- challenge ---
 
 ## Défi : Enregistre l'humidité ou la pression
 
