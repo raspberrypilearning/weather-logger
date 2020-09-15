@@ -9,7 +9,7 @@
 
 ### क्ल्ब लीडर्स करिता अधिक माहिती
 
-या प्रोजेक्टला प्रिन्ट करण्या करिता, कृपया [प्रिंटर friendly version](https://projects.raspberrypi.org/en/projects/weather-logger/print) चा उपयोग करा.
+तुम्हाला हा प्रकल्प प्रिंट करण्याची आवश्यकता असल्यास, कृपया [प्रिंट अनुकूल आवृत्ती](https://projects.raspberrypi.org/en/projects/weather-logger/print) वापरा.
 
 ## \--- collapse \----
 
@@ -31,14 +31,14 @@
 
 ## ओफलाइन रिसोर्सेस
 
-हा प्रोजेक्ट Sense HAT असलेल्या Rasberry Pi कंप्यूटर वरून [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) पूण करता येतो. आपण या प्रकल्पाची संसाधने ‘Project Materials’ link वर​ क्लिक करून मिळवू शकता. ह्या लिंक मध्ये एक 'Project Resources' नामक विभाग आहे, ज्यामध्ये मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यासाठी लागणारी संसाधने आहेत. प्रत्येक मुलाकडे संसाधनांची प्रत असल्याचे सुनिश्चित करा. या विभागात खालील फायली समाविष्ट आहेत:
+हा प्रोजेक्ट Raspberry Pi संगणका बरोबर एका Sense Hat सह [ऑफलाइन](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) देखील पूर्ण केला जाऊ शकतो. आपण या प्रोजेक्टची संसाधने 'प्रोजेक्ट साहित्य' या दुवेवर​ क्लिक करून मिळवू शकता. या दुव्यामध्ये 'प्रकल्प संसाधने' विभाग आहे, ज्यामध्ये संसाधने आहेत जी मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यास आवश्यक असतील. प्रत्येक मुलाकडे संसाधनांची प्रत असल्याचे सुनिश्चित करा. या विभागात खालील फायली समाविष्ट आहेत:
 
 * weather/main.py
 * weather/collect.py
 * weather/display.py
 * weather/weather.txt
 
-आपणास 'Volunteer Resources'' विभागात या प्रोजेक्टची पूर्ण केलेली आवृत्ती देखील सापडेल, ज्यात हे आहे:
+ह्या प्रोजेक्टची पूर्ण झालेली आवृत्ती तुम्हाला 'क्लब प्रमुख संसाधने' विभागात मिळेल ज्यात खालील बाबी आहेत:
 
 * weather-finished/main.py
 * weather-finished/collect.py
