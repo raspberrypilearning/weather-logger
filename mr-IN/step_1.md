@@ -31,7 +31,7 @@
 
 ## ओफलाइन रिसोर्सेस
 
-हा प्रोजेक्ट Sense HAT असलेल्या Rasberry Pi कंप्यूटर वरून [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) पूण करता येतो. You can access the project resources by clicking the 'Project Materials' link for this project. या लिंक मध्ये ''प्रोजेक्त रिसोर्सेस ' विभाग आहे, ज्यामध्ये resources आहेत जी मुलांना हा project ऑफलाइन पूर्ण करण्यासाठी आवश्यक असेल. प्रत्येक मुलास या resources ची प्रती प्राप्त आहे याची खात्री करा. या विभागात खालील files समाविष्ट आहेत:
+हा प्रोजेक्ट Sense HAT असलेल्या Rasberry Pi कंप्यूटर वरून [completed offline](https://www.codeclubprojects.org/en-GB/resources/physical-sense-hat/) पूण करता येतो. आपण या प्रकल्पाची संसाधने ‘Project Materials’ link वर​ क्लिक करून मिळवू शकता. ह्या लिंक मध्ये एक 'Project Resources' नामक विभाग आहे, ज्यामध्ये मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यासाठी लागणारी संसाधने आहेत. प्रत्येक मुलाकडे संसाधनांची प्रत असल्याचे सुनिश्चित करा. या विभागात खालील फायली समाविष्ट आहेत:
 
 * weather/main.py
 * weather/collect.py
