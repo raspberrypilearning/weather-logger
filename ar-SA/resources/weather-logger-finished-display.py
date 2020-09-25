@@ -10,8 +10,8 @@ for line in file.read().splitlines():
 file.close()
 
 weatherchart = pygal.Line()
-weatherchart.title = 'Weather'
+weatherchart.title = 'الطقس'
 weatherchart.x_labels = range(1, len(temp) + 1)
-weatherchart.add('temp', temp)
+weatherchart.add('الحرارة', temp)
 weatherchart.render()
 
