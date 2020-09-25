@@ -1,7 +1,7 @@
-من SenseHat_hat استيراد SenseHat
-من وقت استيراد السكون
+from sense_hat import SenseHat
+from time import sleep
 
-الإحساس = SenseHat()
+sense = SenseHat()
 
 
 
