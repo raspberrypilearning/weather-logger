@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
-title: Weather Logger
-description: Log data from the sensors and then display it as a line graph.
+title: Weer vastlegger
+description: Leg gegevens van de sensoren vast en weergeef ze in een lijngrafiek.
 original_url: https://codeclubprojects.org/en-GB/sense-hat/weather-logger
 interests: weather
 technologies: sense-hat
@@ -18,12 +18,12 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 'Introduction'
+    title: 'Inleiding'
   - 
-    title: Logging the temperature
+    title: Vastleggen van tempratuur
   - 
-    title: Creating a temperature graph
+    title: Een temperatuurgrafiek maken
   - 
-    title: 'Challenge: Simulate different weather conditions'
+    title: 'Uitdaging: simuleer verschillende weersomstandigheden'
   - 
-    title: 'Challenge: Record humidity or pressure'
+    title: 'Uitdaging: registreer de vochtigheid of druk'
