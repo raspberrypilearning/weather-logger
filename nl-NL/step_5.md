@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Record humidity or pressure
+## Uitdaging: registreer de vochtigheid of druk
 
-Humidity is high when there is a lot of moisture in the air. High pressure is associated with fine weather while low pressure means cloudy, rainy or snowy weather.
+De luchtvochtigheid is hoog als er veel vocht in de lucht is. Hoge druk wordt geassocieerd met mooi weer, terwijl lage druk betekent bewolkt, regenachtig of sneeuwweer.
 
-Duplicate your project and change it so that it records humidity or pressure instead of temperature.
+Dupliceer je project en verander het zodat het de vochtigheid of druk registreert in plaats van de temperatuur.
 
 \--- /challenge \---
