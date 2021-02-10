@@ -1,31 +1,31 @@
-## Creating a temperature graph
+## Een temperatuurgrafiek maken
 
-Now you've collected some temperature data let's show it on a line graph.
+Nu je enkele temperatuurgegevens hebt verzameld, laten we deze in een lijngrafiek weergeven.
 
-+ Click on `main.py`. At the moment it imports the `collect.py` script that you wrote to collect the temperature data. Now change it so that it imports the `display.py` script instead.
++ Klik op `main.py`. Op dit moment importeert het het `collect.py` script dat je hebt geschreven om de temperatuurgegevens te verzamelen. Verander het nu zodat het het `display.py` script importeert.
     
-    Comment out the `import collect` line by adding a `#` at the beginning and remove the `#` from the beginning of the `import display` line.
+    Geef commentaar op de `import collect` regel door het toevoegen van een `#` aan het begin. En verwijder de `#` aan het begin van de `import display` regel.
     
-    `main.py` should now look like this:
+    `main.py` zou er nu als volgt uit moeten zien:
     
-    ![screenshot](images/weather-main.png)
+    ![schermafbeelding](images/weather-main.png)
 
-+ Click on `display.py` to work on the code for displaying the data. You'll be using the Pygal library which has been included for you.
++ Klik op `display.py` om te werken aan de code voor het weergeven van de gegevens. Je zult gebruik maken van de Pygal bibliotheek, deze is voor je meegeleverd.
     
-    ![screenshot](images/weather-display.png)
+    ![schermafbeelding](images/weather-display.png)
 
-+ Add the highlighted code to read the values from the `weather.txt` file into a list called `temp`.
++ Voeg de gemarkeerde code toe om de waarden uit het bestand `weather.txt` te lezen in een lijst met de naam `temp` te zetten.
     
-    ![screenshot](images/weather-read.png)
+    ![schermafbeelding](images/weather-read.png)
 
-+ Run the code to see the values printed out. You can remove the `print` line when you have tested your code.
++ Voer de code uit om de waardes te zien die worden afgedrukt. Je kunt de `print` lijn verwijderen, als je de code hebt getest.
 
-+ Now let's add the code to create a line graph from the data using Pygal.
++ Laten we nu de code toevoegen om een lijngrafiek van de gegevens te maken met Pygal.
     
-    ![screenshot](images/weather-graph.png)
+    ![schermafbeelding](images/weather-graph.png)
 
-+ Pygal automatically creates labels for the y axis from the data. Let's add a title and labels for the x axis. We can number the readings starting from 1. We need to add one to the length of the temperature list so that range will return a list of numbers that goes from 1 up to the length of the list.
++ Pygal maakt automatisch labels voor de y-as op basis van de gegevens. Laten we een titel en labels toevoegen aan de x-as. We kunnen de meetwaarden nummeren vanaf 1. We moeten één toevoegen aan de lengte van de temperatuurlijst, zodat het bereik een lijst met nummers teruggeeft van 1 tot en met de lengte van de lijst.
     
-    Add the highlighted code to add a title and labels:
+    Voeg de gemarkeerde code toe om een titel en labels toe te voegen:
     
-    ![screenshot](images/weather-labels.png)
+    ![schermafbeelding](images/weather-labels.png)
