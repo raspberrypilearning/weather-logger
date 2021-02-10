@@ -1,33 +1,33 @@
-## Logging the temperature
+## Vastleggen van temperatuur
 
-First let's log the temperature to a file every 5 seconds. You can use the emulator to change the temperature.
+Laten we eerst de temperatuur elke 5 seconden in bestand vast leggen. Je kunt de emulator gebruiken om de temperatuur te veranderen.
 
-+ Open the Weather Logger Starter Trinket: <a href="http://jumpto.cc/weather-go" target="_blank">jumpto.cc/weather-go</a>.
++ Open de weer vast legger Starter Trinket <a href="http://jumpto.cc/weather-go" target="_blank">jumpto.cc/weather-go</a>.
     
-    **Some files and code have been added for you.**
+    **Enkele bestanden en codes zijn voor je toegevoegd.**
 
-+ Click on `collect.py`. This is where you'll write the code to collect the temperature data. Let's open the `weather.txt` file and write the temperature to it every five seconds.
++ Klik op `collect.py`. Dit is waar je de code schrijft om de temperatuurgegevens te verzamelen. Laten we het `weather.txt` bestand openen en om de vijf seconden de temperatuur noteren.
     
-    Add the highlighted code to `collect.py`:
+    Voeg de gemarkeerde code toe aan ` collect.py `:
     
-    ![screenshot](images/weather-collect.png)
+    ![schermafbeelding](images/weather-collect.png)
     
-    Opening the file with `a` means that data will be appended to the end of the file.
+    Als je het bestand opent met `a` worden de gegevens aan het einde van het bestand toegevoegd.
     
-    Writing a newline character `\n` puts each temperature reading on its own line.
+    Het schrijven van een nieuw regel teken `\n` vermeld elk genoteerde temperatuur op een eigen regel.
 
-+ Click on `weather.txt`. It should be empty. This is where the data will be stored.
++ Klik op `weather.txt`. Het hoort leeg te zijn. Hier wordt de data opgeslagen.
     
-    ![screenshot](images/weather-file.png)
+    ![schermafbeelding](images/weather-file.png)
 
-+ Now click Run. Use the temperature slider on the emulator to change the temperature. You should see the temperature reading added to the end of `weather.txt` every five seconds.
++ Klik nu op Run. Gebruik de temperatuurschuifregelaar op de emulator om de temperatuur te wijzigen. Je zou de temperatuurmeting elke vijf seconden aan het einde van `weather.txt` moeten zien.
     
-    Remember that the emulator tries to behave like a real Sense HAT so you won't see exactly the same reading even if you don't change the emulator.
+    Onthoud dat de emulator zich probeert te gedragen als een echte Sense HAT, zodat je niet precies dezelfde lezing zult zien, zelfs als je de emulator niet verandert.
     
-    ![screenshot](images/weather-temperature.png)
+    ![schermafbeelding](images/weather-temperature.png)
 
-+ Click the square `Stop` button when you have finished collecting data.
++ Klik op de knop `Stop` als je klaar bent met het verzamelen van gegevens.
     
-    ![screenshot](images/weather-stop.png)
+    ![schermafbeelding](images/weather-stop.png)
 
-+ You can highlight the data in `weather.txt` and delete it if you want to start collecting new temperature data. Collect around 10 temperature readings.
++ U kunt de gegevens in `weather.txt` markeren en verwijderen als u nieuwe temperatuurgegevens wilt gaan verzamelen. Verzamel ongeveer 10 temperatuurmetingen.
