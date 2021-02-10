@@ -5,7 +5,7 @@ temp = []
 file = open('weather.txt', 'r')
 
 for line in file.read().splitlines():
-  if line:
+  if regel:
     temp.append( float(line) )
 file.close()
 
