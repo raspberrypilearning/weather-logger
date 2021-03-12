@@ -1,4 +1,4 @@
-## Inleiding:
+## Inleiding
 
 In dit project verzamel je gegevens van de sensoren van de Sense HAT en leg je deze vast in een bestand. Vervolgens gebruik je de PyGal-module om die gegevens weer te geven als een lijngrafiek.
 
@@ -9,7 +9,7 @@ In dit project verzamel je gegevens van de sensoren van de Sense HAT en leg je d
 
 ### Aanvullende informatie voor clubleiders
 
-Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/weather-logger/print).
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/weather-logger/print).
 
 ## \--- collapse \---
 
@@ -17,17 +17,17 @@ Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](h
 
 ## Inleiding:
 
-In dit project, zullen kinderen leren hoe ze data uit de Sense HAT sensoren moeten opslaan in een bestand. En deze vervolgens te weergeven in een grafiek, gebruik makend van Pygal.
+In dit project, zullen kinderen leren hoe ze data uit de Sense HAT sensoren moeten opslaan in een bestand. En deze vervolgens weer te geven in een grafiek, gebruik makend van Pygal.
 
 ## Online bronnen
 
 **Dit project maakt gebruik van Python 3.** We raden aan om [Trinket](https://trinket.io/) te gebruiken om Python online te schrijven. Dit project bevat de volgende Trinkets:
 
-* ['Weer vastlegger' starters-trinket -- jumpto.cc/weather-go](http://jumpto.cc/weather-go)
+* ['Weerlogboek' starters-trinket -- jumpto.cc/weather-go](http://jumpto.cc/weather-go)
 
 Er is ook een trinket met het voltooide project:
 
-* [‘Weather vastlegger’ Afgerond -- trinket.io/python/5e246d8212](https://trinket.io/python/5e246d8212)
+* [‘Weerlogboek’ Voltooid -- trinket.io/python/5e246d8212](https://trinket.io/python/5e246d8212)
 
 ## Offline bronnen
 
@@ -70,19 +70,19 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 ## Projectbronnen
 
 * [.zip-bestand met alle projectbronnen](resources/weather-logger-project-resources.zip)
-* [Weer vastlegger startersproject](http://jumpto.cc/weather-go)
+* [Weerlogboek startersproject](http://jumpto.cc/weather-go)
 * [Offline start Python-bestand](resources/weather-logger-main.py)
 * [Offline Python bestand voor het verzamelen van gegevens](resources/weather-logger-collect.py)
 * [Offline Python bestand voor het weergeven van gegevens](resources/weather-logger-display.py)
-* [Offline weer gegevensbestand](resources/weather--loggerweather.txt)
+* [Offline bestand met weergegevens](resources/weather--loggerweather.txt)
 
 ## Clubleider bronnen
 
-* [.zip-bestand met alle voltooide projectresources](resources/weather-logger-volunteer-resources.zip)
-* [Online voltooid trinket Tightrope project](https://trinket.io/python/5e246d8212)
+* [.zip-bestand met alle voltooide projectbronnen](resources/weather-logger-volunteer-resources.zip)
+* [Online voltooid trinket Weerlogboek project](https://trinket.io/python/5e246d8212)
 * [Offline start Python-bestand](resources/weather-logger-finished-main.py)
 * [Offline Python bestand voor het verzamelen van gegevens](resources/weather-logger-finished-collect.py)
 * [Offline Python bestand voor het weergeven van gegevens](resources/weather-logger-finished-display.py)
-* [Offline weer gegevensbestand](resources/weather-logger-finished-weather.txt)
+* [Offline bestand met weergegevens](resources/weather-logger-finished-weather.txt)
 
 \--- /collapse \---
