@@ -4,9 +4,9 @@ from time import sleep
 sense = SenseHat()
 
 while True:
-  myfile = open('weather.txt', 'a')
-  myfile.write(sense.temp)
-  myfile.write('\n')
-  myfile.close()
+  mijnbestand = open('weather.txt', 'a')
+  mijnbestand.write(sense.temp)
+  mijnbestand.write('\n')
+  mijnbestand.close()
   sleep(5)
 
