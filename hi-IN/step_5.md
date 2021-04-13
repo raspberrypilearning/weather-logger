@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Record humidity or pressure
+## चुनौती: नमी या दबाव रिकॉर्ड करना
 
-Humidity is high when there is a lot of moisture in the air. High pressure is associated with fine weather while low pressure means cloudy, rainy or snowy weather.
+हवा में नमी बहुत अधिक होने पर आर्द्रता अधिक होती है। उच्च दबाव ठीक मौसम से जुड़ा होता है जबकि निम्न दबाव का मतलब बादल, बारिश या बर्फीला मौसम होता है।
 
-Duplicate your project and change it so that it records humidity or pressure instead of temperature.
+अपने प्रोजेक्ट को डुप्लीकेट करें और इसे बदल दें ताकि यह तापमान के बजाय नमी या दबाव रिकॉर्ड करे।
 
 \--- /challenge \---
