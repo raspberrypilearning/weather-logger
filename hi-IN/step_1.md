@@ -11,6 +11,7 @@
 
 यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/hi-IN/projects/weather-logger/print) का उपयोग करें।
 
+--- collapse ---
 ---
 title: क्लब नेता की टिप्पणियाँ
 ---
