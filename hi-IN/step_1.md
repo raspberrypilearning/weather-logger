@@ -9,11 +9,11 @@
 
 ### क्लब नेताओं के लिए अतिरिक्त जानकारी
 
-यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [Printer friendly version](https://projects.raspberrypi.org/en/projects/weather-logger/print) का उपयोग करें।
+यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/weather-logger/print) का उपयोग करें।
 
 ## \--- collapse \---
 
-## शीर्षक: क्लब नेता की टिप्पणियाँ
+## title: क्लब नेता की टिप्पणियाँ
 
 ## परिचय:
 
@@ -21,13 +21,13 @@
 
 ## ऑनलाइन संसाधन
 
-**This project uses Python 3.** Python को ऑनलाइन लिखने के लिए हम [Trinket](https://trinket.io/) का उपयोग करने की सलाह देते हैं। इस परियोजना में निम्नलिखित ट्रिंकेट शामिल हैं:
+**इस प्रोजेक्ट में Python 3 का उपयोग किया जाता है।** Python को ऑनलाइन लिखने के लिए हम [Trinket](https://trinket.io/) का उपयोग करने की सलाह देते हैं। इस परियोजना में निम्नलिखित ट्रिंकेट शामिल हैं:
 
-* ['Weather Logger' Starter Trinket -- jumpto.cc/weather-go](http://jumpto.cc/weather-go)
+* ['मौसम लॉग करना' स्टार्टर Trinket -- jumpto.cc/weather-go](http://jumpto.cc/weather-go)
 
 एक ऐसा trinket भी है जिसमें पूर्ण किया गया परियोजना है:
 
-* [‘Weather Logger’ Finished -- trinket.io/python/5e246d8212](https://trinket.io/python/5e246d8212)
+* [‘मौसम लॉग करना’ समाप्त -- trinket.io/python/5e246d8212](https://trinket.io/python/5e246d8212)
 
 ## ऑफ़लाइन संसाधन
 
