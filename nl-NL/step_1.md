@@ -3,7 +3,7 @@
 In dit project verzamel je gegevens van de sensoren van de Sense HAT en leg je deze vast in een bestand. Vervolgens gebruik je de PyGal-module om die gegevens weer te geven als een lijngrafiek.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/python/5e246d8212?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
+  <iframe src="https://trinket.io/embed/python/bf02eb20a4?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen mark="crwd-mark">
 </iframe> <img src="images/weather-final.png" />
 </div>
 
@@ -28,7 +28,7 @@ In dit project, zullen kinderen leren hoe ze data uit de Sense HAT sensoren moet
 
 Er is ook een trinket met het voltooide project:
 
-* [‘Weerlogboek’ Voltooid -- trinket.io/python/5e246d8212](https://trinket.io/python/5e246d8212)
+* [‘Weerlogboek’ Voltooid -- trinket.io/python/bf02eb20a4](https://trinket.io/python/bf02eb20a4)
 
 ## Offline bronnen
 
@@ -81,7 +81,7 @@ title: Projectmaterialen
 ## Clubleider bronnen
 
 * [.zip-bestand met alle voltooide projectbronnen](resources/weather-logger-volunteer-resources.zip)
-* [Online voltooid trinket Weerlogboek project](https://trinket.io/python/5e246d8212)
+* [Online voltooid trinket Weerlogboek project](https://trinket.io/python/bf02eb20a4)
 * [Offline start Python-bestand](resources/weather-logger-finished-main.py)
 * [Offline Python bestand voor het verzamelen van gegevens](resources/weather-logger-finished-collect.py)
 * [Offline Python bestand voor het weergeven van gegevens](resources/weather-logger-finished-display.py)
