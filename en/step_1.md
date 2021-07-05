@@ -78,7 +78,7 @@ title: Project materials
 
 ## Club leader resources
 * [.zip file containing all completed project resources](resources/weather-logger-volunteer-resources.zip)
-* [Online completed Weather logger project](https://trinket.io/python/5e246d8212)
+* [Online completed Trinket Weather logger project](https://trinket.io/python/5e246d8212)
 * [Offline starter Python file](resources/weather-logger-finished-main.py)
 * [Offline Python file for collecting data](resources/weather-logger-finished-collect.py)
 * [Offline Python file for displaying data](resources/weather-logger-finished-display.py)
