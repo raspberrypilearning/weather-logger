@@ -7,7 +7,8 @@ ingredient: false
 copyedit: false
 curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
 title: Registrador de clima
-description: Registra los datos de los sensores y luego despliégalos como un gráfico lineal.
+description: Registra los datos de los sensores y luego despliégalos como un gráfico
+  lineal.
 original_url: https://codeclubprojects.org/en-GB/sense-hat/weather-logger
 interests: weather
 technologies: sense-hat
@@ -17,8 +18,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 'Introducción'
-  - title: Registrar la temperatura
-  - title: Crear un gráfico de temperatura
-  - title: 'Desafío: Simular diferentes condiciones climáticas'
-  - title: 'Desafío: Registrar humedad o presión'
+- title: Introducción
+  completion: engaged
+- title: Registrar la temperatura
+- title: Crear un gráfico de temperatura
+- title: 'Desafío: Simular diferentes condiciones climáticas'
+  completion: internal
+- title: 'Desafío: Registrar humedad o presión'

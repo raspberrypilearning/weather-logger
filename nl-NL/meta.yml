@@ -17,8 +17,10 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 'Inleiding'
-  - title: Vastleggen van temperatuur
-  - title: Een temperatuurgrafiek maken
-  - title: 'Uitdaging: simuleer verschillende weersomstandigheden'
-  - title: 'Uitdaging: registreer de vochtigheid of druk'
+- title: Inleiding
+  completion: engaged
+- title: Vastleggen van temperatuur
+- title: Een temperatuurgrafiek maken
+- title: 'Uitdaging: simuleer verschillende weersomstandigheden'
+  completion: internal
+- title: 'Uitdaging: registreer de vochtigheid of druk'
