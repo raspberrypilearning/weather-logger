@@ -16,9 +16,12 @@ hardware: sense-hat
 software: ''
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: 'Introduction'
+steps:
+- title: Introduction
 - title: Logging the temperature
 - title: Creating a temperature graph
+  completion:
+  - engaged
+  - internal
 - title: 'Challenge: Simulate different weather conditions'
 - title: 'Challenge: Record humidity or pressure'
