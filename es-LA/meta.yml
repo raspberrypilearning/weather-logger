@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Registrar la temperatura
 - title: Crear un gráfico de temperatura
+  completion:
+  - engaged
+  - internal
 - title: 'Desafío: Simular diferentes condiciones climáticas'
-  completion: internal
 - title: 'Desafío: Registrar humedad o presión'

@@ -19,9 +19,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Enregistrement de la température
 - title: Création d'un graphique de température
+  completion:
+  - engaged
+  - internal
 - title: 'Défi : Simuler différentes conditions météo'
-  completion: internal
 - title: 'Défi : Enregistrer l''humidité ou la pression'
